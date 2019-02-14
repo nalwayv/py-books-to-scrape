@@ -1,0 +1,3 @@
+from .bookInfoLocators import BookInfoLocators
+from .bookLocator import BooksLocator
+from .bookPagesInfoLocators import bookPagesInfoLocators
